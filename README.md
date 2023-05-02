@@ -2,6 +2,13 @@
 Repository for reproducible analysis of BIO 539 Project
 The purpose of this repo is to store and centralize all material and outputs (R markdowns, graphs, raw scripts, analysis papers) for the Final Project in BIO 539
 
+##Objectives
+
+1. Understand association between tick-borne pathogens in terms of singular infection and co-infections in Rhode Island.
+2. Understand how enviromental covariates influence infection rates.
+3. Identify a possible spatial relationship for the distribution of pathogens across Rhode Island.
+4. identify pathogen prevalence for tick-borne pathogens in RI.
+
 ## Materials
 
 ### Raw Data
