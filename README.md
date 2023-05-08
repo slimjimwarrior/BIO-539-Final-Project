@@ -30,7 +30,7 @@ Pathogen Data Script (Model and organization) - This R script contains the entir
 
 Graphics - This includes all outputs in the form of tables, graphs, and other visual elements. It is not coupled in the code. However, comments within the pathogen data Script that should specify which code makes which graphs
 
-R Markdown - contains r markdown file with all outputs and thoughts/comments during analysis.
+R Markdown - contains r markdown file with all outputs and thoughts/comments during analysis. The r markdown contains commentary but you will ned need to knit it yourself. The large spatial models performed near the end are computationally intensive so remember to devote plenty of resources towards it.
 
 ## Tips on use
 
